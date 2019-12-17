@@ -1,6 +1,6 @@
 # enjakobsen.github.io
 
-I made this game in Unity to showcase my ability to script in C#. Very little of this work is not by my own hand.
+I made this game in Unity, Blender, and GIMP to showcase my ability to script in C#. Very little of this work is not by my own hand.
 
 
 However,
